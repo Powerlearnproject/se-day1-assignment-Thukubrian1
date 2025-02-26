@@ -5,6 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 Software engineering is a branch of computer science which entails the creation and maintenance
 of systems, apps, websites etc to help solve problems and help in our day to day tasks.
 **Importance**
@@ -25,6 +26,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 5. Maintenance - This happens after the solution has been created and is in use. Maintenance can be done by updating, upscaling etc.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Waterfall methodology is a linear, sequential approach to software development where the project is divided into distinct, predefined phases e.g
 we can have different steps such as design , code etc and we follow the processes in order, the next process can not start if the previous one has 
 not been completed. Agile methodoology is an iterative, flexible approach to software development where the project is broken into small, manageable increments (called sprints) e.g We can assign tasks todifferent individuals then after every week(our sprint) they should have completed a certain milestone, here the process can be done together.
@@ -37,6 +39,7 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
    
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 The importance of an IDE is that it makes the writting and arrangement of code easier eg Visual Studio Code while the importance of a VCS is that it helps in the managemnt
 of the code versions eg Git 
 
@@ -55,9 +58,11 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 #Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
 It is the creation of inputs to guide AI models' responses.It's crucial for optimizing accuracy, 
 relevance, and efficiency in interactions, ensuring desired outputs from AI systems.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 Vague prompt - Generate for me a python code.
 Improved prompt - Generate for me a python code that accepts user's input for two numbers and then calculates the sum.
